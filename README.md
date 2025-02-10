@@ -35,4 +35,3 @@ This repository contains the first assignment for the **Development Operations-C
 This project is for educational purposes only.  
 
 🎯 *Let's build something awesome together!*
-![image](https://github.com/user-attachments/assets/0ef51aa3-bf60-46be-820c-2d9bdc7c6b36)

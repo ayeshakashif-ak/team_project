@@ -22,8 +22,7 @@ This repository contains the first assignment for the **Development Operations-C
 
 ## 👥 Team Members  
 - 2022132- Ayesha Kashif  
-- 2022xxx- First Last
-
+- 2022485- Noor ul ain
 ## 📜 How to Contribute  
 1. Fork the repository  
 2. Clone your fork: `git clone https://github.com/ayeshakashif-ak/team_project.git`  
